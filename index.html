@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
+    <title>
+        LYNX
+    </title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!-- TOP BAR -->
+
+    <div class="topbar">
+
+        <div class="logo">
+
+            LYNX
+
+        </div>
+
+        <div class="subtitle">
+
+            AI • VLSI • Embedded Systems • Research
+
+        </div>
+
+    </div>
+
+    <!-- MAIN CHAT AREA -->
+
+    <div class="chat-wrapper">
+
+        <div id="chat-box">
+
+            <div class="welcome">
+
+                <h1>
+                    Welcome to LYNX
+                </h1>
+
+                <p>
+                    Ask about projects, skills,
+                    research, AI, VLSI,
+                    GitHub repositories,
+                    publications and more.
+                </p>
+
+                <!-- QUICK BUTTONS -->
+
+                <div class="quick-buttons">
+
+                    <button onclick="quickAsk('Tell me about Vocobot')">
+                        Vocobot
+                    </button>
+
+                    <button onclick="quickAsk('Show GitHub projects')">
+                        GitHub
+                    </button>
+
+                    <button onclick="quickAsk('What are Eashanvi skills?')">
+                        Skills
+                    </button>
+
+                    <button onclick="quickAsk('Tell me about research paper')">
+                        Research
+                    </button>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- INPUT BAR -->
+
+        <div class="input-container">
+
+            <input
+                type="text"
+                id="user-input"
+                placeholder="Message LYNX..."
+            >
+
+            <button onclick="sendMessage()">
+                Send
+            </button>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
