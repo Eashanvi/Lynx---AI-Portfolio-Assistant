@@ -1,4 +1,4 @@
-\# LYNX — AI Portfolio Assistant 🚀
+# LYNX — AI Portfolio Assistant 🚀
 
 
 
@@ -14,15 +14,15 @@ The chatbot acts like a futuristic AI recruiter assistant capable of answering q
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
-\- 💬 Interactive AI chatbot
+- 💬 Interactive AI chatbot
 
-\- 🧠 Conversational memory
+- 🧠 Conversational memory
 
-\- 🤖 Jarvis-inspired assistant behavior
+- 🤖 Jarvis-inspired assistant behavior
 
 \- 📁 GitHub project recommendations
 
