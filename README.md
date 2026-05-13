@@ -83,7 +83,7 @@ The chatbot acts like a futuristic AI recruiter assistant capable of answering q
 
 
 
-![Homepage](assets/homepage.png)
+![Homepage](assets/chatbot1.png)
 
 
 
@@ -95,7 +95,7 @@ The chatbot acts like a futuristic AI recruiter assistant capable of answering q
 
 
 
-![Chatbot](assets/chatbot.png)
+![Chatbot](assets/chatbot2.png)
 
 
 
