@@ -1,4 +1,4 @@
-\# LYNX — AI Portfolio Assistant 🚀
+# LYNX — AI Portfolio Assistant 🚀
 
 
 
@@ -8,203 +8,110 @@ LYNX is an AI-powered interactive portfolio assistant developed for showcasing p
 
 The chatbot acts like a futuristic AI recruiter assistant capable of answering questions about Eashanvi’s profile, projects, skills, VLSI interests, AI systems, embedded systems, and more.
 
+ Live Demo: https://lynx-ai-portfolio-assistant-n50e758st-eashanvi-s-projects.vercel.app
 
+---
 
-\---
 
 
+## ✨ Features
 
-\## ✨ Features
 
 
+- 💬 Interactive AI chatbot
 
-\- 💬 Interactive AI chatbot
+- 🧠 Conversational memory
 
-\- 🧠 Conversational memory
+- 🤖 Jarvis-inspired assistant behavior
 
-\- 🤖 Jarvis-inspired assistant behavior
+- 📁 GitHub project recommendations
 
-\- 📁 GitHub project recommendations
+- 🔗 Repository link sharing
 
-\- 🔗 Repository link sharing
+- 🎯 Skills \& proficiency explanation
 
-\- 🎯 Skills \& proficiency explanation
+- 📚 Research \& publication information
 
-\- 📚 Research \& publication information
+- 🌌 Modern futuristic UI
 
-\- 🌌 Modern futuristic UI
+- ⚡ Fast Node.js backend
 
-\- ⚡ Fast Node.js backend
 
 
+---
 
-\---
 
 
+## 🛠️ Tech Stack
 
-\## 🛠️ Tech Stack
 
 
+### Frontend
 
-\### Frontend
+- HTML
 
-\- HTML
+- CSS
 
-\- CSS
+- JavaScript
 
-\- JavaScript
 
 
+### Backend
 
-\### Backend
+- Node.js
 
-\- Node.js
+- Express.js
 
-\- Express.js
 
 
+### APIs
 
-\### APIs
+- OpenRouter API
 
-\- OpenRouter API
+- OpenAI GPT Models
 
-\- OpenAI GPT Models
 
 
+---
 
-\---
 
 
+## 📸 Screenshots
 
-\## 📸 Screenshots
 
+### Homepage UI
 
 
-\### Homepage UI
 
+![Homepage](assets/chatbot1.png)
 
 
-!\[Homepage](assets/homepage.png)
 
+---
 
 
-\---
 
+### Chat Interface
 
 
-\### Chat Interface
 
-
-
-!\[Chatbot](assets/chatbot.png)
-
-
-
-\---
-
-
-
-\## 📂 Featured Projects
-
-
-
-\### 🚗 Vocobot
-
-Voice-controlled robotic car using Arduino Uno, Bluetooth module, ultrasonic sensor, and embedded systems integration.
-
-
-
-GitHub:
-
-https://github.com/Eashanvi/vocobot
+![Chatbot](assets/chatbot2.png)
 
 
 
 \---
 
 
-
-\### 🌌 Space Image Classifier
-
-AI-powered space image classification project using machine learning techniques.
+## 👩‍💻 About
 
 
 
-GitHub:
-
-https://github.com/Eashanvi/Space-Image-Classifier
+*\*Allu Uma Eashanvi\*\*  
 
 
 
-\---
 
 
-
-\### ⚡ AI Hardware Accelerator
-
-Research-oriented AI hardware acceleration project focused on intelligent computing systems.
-
-
-
-GitHub:
-
-https://github.com/Eashanvi/AI-Hardware-Accelerator
-
-
-
-\---
-
-
-
-\## 📚 Publication
-
-
-
-\### IEEE Conference Paper
-
-\*\*Design and Implementation of Voice Controlled Robotic Car for Real-Time Hands-Free Navigation and Control\*\*
-
-
-
-Published in:
-
-2025 1st International Conference on Advancement in Futuristic Technologies
-
-
-
-\---
-
-
-
-\## 👩‍💻 About
-
-
-
-\*\*Allu Uma Eashanvi\*\*  
-
-BE — Electronics and Communication Engineering  
-
-New Horizon College of Engineering, Bangalore
-
-
-
-Interests:
-
-\- VLSI Systems
-
-\- Artificial Intelligence
-
-\- Embedded Systems
-
-\- Robotics
-
-\- Astrophysics
-
-
-
-LinkedIn:
-
-https://www.linkedin.com/in/allu-uma-eashanvi-67b628377/
 
 
 
@@ -214,41 +121,36 @@ https://github.com/Eashanvi
 
 
 
-\---
+---
 
 
 
-\## 🚀 Future Improvements
+## 🚀 Future Improvements
 
 
 
-\- Voice interaction
+- Voice interaction
 
-\- Speech synthesis
+- Speech synthesis
 
-\- Animated AI avatar
+- Animated AI avatar
 
-\- Resume download
+- Resume download
 
-\- Multi-language support
+- Multi-language support
 
-\- AI memory expansion
+- AI memory expansion
 
-\- Deployment with authentication
-
-
-
-\---
+- Deployment with authentication
 
 
 
-\## ⚡ Run Locally
+---
 
 
 
-```bash
 
-npm install
 
-node server.js
+
+
 
