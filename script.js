@@ -30,7 +30,7 @@ window.sendMessage = async function () {
     try {
 
         const response = await fetch(
-            "http://localhost:3000/chat",
+            "https://lynx-ai-portfolio.onrender.com/chat",
             {
                 method: "POST",
 

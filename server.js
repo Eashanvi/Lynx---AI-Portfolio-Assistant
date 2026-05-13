@@ -169,7 +169,7 @@ Research Paper:
 "Design and Implementation of Voice Controlled Robotic Car for Real Time Hands Free Navigation and Control"
 
 Publication:
-IEEE Xplore (Published)
+IEEE Xplore (Published) - Published On March 31st 2026
 
 ===================================
 BOT BEHAVIOR RULES
